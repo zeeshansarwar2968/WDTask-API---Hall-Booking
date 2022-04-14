@@ -8,4 +8,4 @@ Deployment link: https://hbooking-apiapp.herokuapp.com/
 
 Postman Documentation:
 
-https://documenter.getpostman.com/view/20388713/Uyr4JfJB#76eb9118-416d-4bfc-9ea3-34b2bca787d1
+https://documenter.getpostman.com/view/20388713/Uyr4JfJB
