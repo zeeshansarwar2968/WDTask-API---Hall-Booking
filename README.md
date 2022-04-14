@@ -16,7 +16,7 @@ IMPORTANT API END-POINT:
 
 /getAllRooms  ---> To get all the available rooms for booking
 
-/createRooms  ---> Create room for booking utility
+/createRoom  ---> Create room for booking utility
 
 /createBooking -> Create bookings for customers
 
