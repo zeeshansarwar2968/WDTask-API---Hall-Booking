@@ -9,3 +9,11 @@ Deployment link: https://hbooking-apiapp.herokuapp.com/
 Postman Documentation:
 
 https://documenter.getpostman.com/view/20388713/Uyr4JfJB
+
+IMPORTANT API END-POINT:
+
+/             ---> Homepage
+/getAllRooms  ---> To get all the available rooms for booking
+/createRooms  ---> Create room for booking utility
+/createBooking -> Create bookings for customers
+/getAllBookings -> Get all bookin information
